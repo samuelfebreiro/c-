@@ -1,3 +1,3 @@
 ## Hi! :)
-Here I will upload some of the programs I make in C++
+Here I upload some of the programs I make in C++, I hope you enjoy it
 
