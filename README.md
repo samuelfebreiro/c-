@@ -12,7 +12,7 @@ Info about the programs:
 
   The program asks you to enter a number. If you enter 0, the program cuts off and returns the number of numbers greater than zero that you have entered.
   
-- iterate_subtraction_addtion.cpp
+- iterate_subtraction_addition.cpp
 
   This program returns the result of the operation: 1-2+3-4+5...-n, where 'n' is the number you enter on the screen
   
