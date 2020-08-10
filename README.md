@@ -4,6 +4,10 @@ Here you have some of the programs I make in C++. You can quickly compile them u
 
 Info about the programs:
 
+- fibonacci.cpp
+
+  In this program you can enter the position up to which you want to view the Fibonacci series.
+
 - get_a_roman_number.cpp
 
   If you introduce a number less than 4000, the program show you the Roman number.
