@@ -22,9 +22,12 @@ Info about the programs:
   
 - iterate_subtraction_addition.cpp
 
-  This program returns the result of the operation: 1-2+3-4+5...-n, where 'n' is the number you enter on the screen
+  This program returns the result of the operation: 1-2+3-4+5...-n, where 'n' is the number you enter on the screen.
   
 - n_total_sum.cpp
 
   With this program you can calculate the total sum of 1 + 2 + 3 + ... + n, where n is the number you choose.
 
+- playing_with_arrays.cpp
+
+  This program asks you the number of rows and columns of an array will you go to create. Then, shows you the transposed array, the sum of A and B and the multiplication.
