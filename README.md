@@ -31,3 +31,7 @@ Info about the programs:
 - playing_with_arrays.cpp
 
   This program asks you the number of rows and columns of an array will you go to create. Then, shows you the transposed array, the sum of A and B and the multiplication.
+  
+- prime_number.cpp
+
+  Do you need to know if a number is prime or not?
