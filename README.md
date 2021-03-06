@@ -1,6 +1,6 @@
 ### Hi! :)
 
-Here you have some of the programs I make in C++. You can quickly compile them using Dev-C++ https://sourceforge.net/projects/orwelldevcpp/
+Here you have some of the programs I make in C++
 
 Info about the programs:
 
